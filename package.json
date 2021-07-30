@@ -1,0 +1,31 @@
+{
+  "name": "streetview-panorama",
+  "version": "1.0.0",
+  "description": "> CLI app helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngLaboratory/streetview-panorama.git"
+  },
+  "keywords": [
+    "street",
+    "view",
+    "google",
+    "map",
+    "naver",
+    "map",
+    "kakao",
+    "map",
+    "daum",
+    "map"
+  ],
+  "bugs": {
+    "url": "https://github.com/AngLaboratory/streetview-panorama/issues"
+  },
+  "homepage": "https://github.com/AngLaboratory/streetview-panorama#readme"
+}
