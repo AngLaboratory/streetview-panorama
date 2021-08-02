@@ -1,17 +1,36 @@
 {
-  "name": "streetview-panorama",
-  "version": "1.0.0",
-  "description": "> CLI app helper",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "streetview-panorama",
+  "_id": "streetview-panorama@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-vFQcoBgAL5YoCGMScNh2Si2bn4D+sLlqLiAF/FdZoOWONxaYaIMNzZ8fwQreYZNh8sl5ayYnjYn/jZVNPDYN+A==",
+  "_location": "/streetview-panorama",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "streetview-panorama",
+    "name": "streetview-panorama",
+    "escapedName": "streetview-panorama",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/streetview-panorama/-/streetview-panorama-1.0.1.tgz",
+  "_shasum": "337132cb6740b3f4b75af9e41244437f7c7d9fce",
+  "_spec": "streetview-panorama",
+  "_where": "/workspace/roadrunner",
   "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AngLaboratory/streetview-panorama.git"
+  "bugs": {
+    "url": "https://github.com/AngLaboratory/streetview-panorama/issues"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "get street view panorama images without any api-key for google map, naver map, kakao map",
+  "homepage": "https://github.com/AngLaboratory/streetview-panorama#readme",
   "keywords": [
     "street",
     "view",
@@ -24,8 +43,15 @@
     "daum",
     "map"
   ],
-  "bugs": {
-    "url": "https://github.com/AngLaboratory/streetview-panorama/issues"
+  "license": "MIT",
+  "main": "index.js",
+  "name": "streetview-panorama",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngLaboratory/streetview-panorama.git"
   },
-  "homepage": "https://github.com/AngLaboratory/streetview-panorama#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
 }
