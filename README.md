@@ -41,3 +41,5 @@ streetview.saveImgPreview( { id:"AF1QipNj7fskmGw14klOjldXQ6WDR4d2OrUJezadVcpi", 
 * ./dir/filename.png => ./dir/filename.png 
   > { id:"AF1QipNj7fskmGw14klOjldXQ6WDR4d2OrUJezadVcpi", type:"google", fileName:'./panorama/aaa6.png' } => ./panorama/aaa6.png
 
+# You can make something like this (Youtube link)
+[![360 VR Gangnam Style 강남역에서 554걸음](http://img.youtube.com/vi/Ts36momnUd4/maxresdefault.jpg)](https://youtu.be/Ts36momnUd4)
