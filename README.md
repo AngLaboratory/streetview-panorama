@@ -13,24 +13,24 @@ streetview.saveImg( { id:"Ec8-wVGl7_ExksLoefbfOw", type:"google", fileName:'./pa
 // Small size
 streetview.saveImgPreview( { id:"e75tezRrNRrTbh6k7Nvxsw", type:"naver" } )
 streetview.saveImgPreview( { id:"1071043104", type:"kakao", fileName:'./panorama/' } )
-streetview.saveImgPreview( { id:"AF1QipNj7fskmGw14klOjldXQ6WDR4d2OrUJezadVcpi", type:"google", fileName:'./panorama/aaa6.png'  } )
+streetview.saveImgPreview( { id:"Ec8-wVGl7_ExksLoefbfOw", type:"google", fileName:'./panorama/aaa6.png'  } )
 ```
 
 # saveImg
-* naver(6144*1024)   
-![Alt text](/example/naver.png "naver streetview image")
-* kakao(4896*2304)   
-![Alt text](/example/kakao.png "kakao streetview image")
-* google(3584*1664)   
-![Alt text](/example/google.png "google streetview image")
+* naver(6144 * 1024)   
+![](/example/naver.png "naver streetview image")   
+* kakao(4896 * 2304)   
+![](/example/kakao.png "kakao streetview image")   
+* google(3328 * 1872)   
+![](/example/google.png "google streetview image")   
 
 # saveImgPreview
-* naver   
-![Alt text](/example/naverPreview.png "naver streetview preview image")
-* kakao   
-![Alt text](/example/kakaoPreview.png "kakao streetview preview image")
-* google   
-![Alt text](/example/googlePreview.png "google streetview preview image")
+* naver(1536 * 256)   
+![](/example/naverPreview.png "naver streetview preview image")   
+* kakao(1280 * 640)   
+![](/example/kakaoPreview.png "kakao streetview preview image")   
+* google(512 * 512)   
+![](/example/googlePreview.png "google streetview preview image")   
 
 
 # fileName options
@@ -39,7 +39,7 @@ streetview.saveImgPreview( { id:"AF1QipNj7fskmGw14klOjldXQ6WDR4d2OrUJezadVcpi", 
 * ./dir/ => ./dir/id.png
   > { id:"1071043104", type:"kakao", fileName:'./panorama/' } => ./panorama/1071043104.png
 * ./dir/filename.png => ./dir/filename.png 
-  > { id:"AF1QipNj7fskmGw14klOjldXQ6WDR4d2OrUJezadVcpi", type:"google", fileName:'./panorama/aaa6.png' } => ./panorama/aaa6.png
+  > { id:"Ec8-wVGl7_ExksLoefbfOw", type:"google", fileName:'./panorama/aaa6.png' } => ./panorama/aaa6.png
 
 # You can make something like this (Youtube link)
-[![360 VR Gangnam Style 강남역에서 554걸음](http://img.youtube.com/vi/Ts36momnUd4/maxresdefault.jpg)](https://youtu.be/Ts36momnUd4)
+[![엄청난 하늘. 충주시.소태면.조금 Chungju-si. Sotae-myeon. A little (223 steps)](http://img.youtube.com/vi/zb7CIqYtLT0/maxresdefault.jpg)](https://youtu.be/zb7CIqYtLT0)
