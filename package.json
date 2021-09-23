@@ -1,6 +1,6 @@
 {
   "_from": "streetview-panorama",
-  "_id": "streetview-panorama@1.0.3",
+  "_id": "streetview-panorama@1.0.4",
   "_inBundle": false,
   "_integrity": "sha512-vFQcoBgAL5YoCGMScNh2Si2bn4D+sLlqLiAF/FdZoOWONxaYaIMNzZ8fwQreYZNh8sl5ayYnjYn/jZVNPDYN+A==",
   "_location": "/streetview-panorama",
@@ -53,5 +53,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
